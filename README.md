@@ -1,4 +1,6 @@
-![Deploy](https://github.com/DFE-Digital/govuk-rails-boilerplate/workflows/Deploy/badge.svg)
+# DEPRECATED - Use [DFE-Digital/rails-template](https://github.com/DFE-Digital/rails-template) instead
+
+[DFE-Digital/rails-template](https://github.com/DFE-Digital/govuk-rails-boilerplate) is based on Rails 7 and includes a number of improvements.
 
 # GOV.UK Rails Boilerplate
 
